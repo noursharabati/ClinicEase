@@ -1,6 +1,6 @@
 # 🏥 ClinicEase
 
-A web-based clinic appointment booking system built with **PHP**, **MySQL**, and **Bootstrap 5**.
+A full-stack academic clinic appointment booking system developed using PHP, MySQL, and Bootstrap 5. The project demonstrates database design, CRUD operations, and secure backend implementation. 
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ A web-based clinic appointment booking system built with **PHP**, **MySQL**, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ClinicEase.git
+git clone https://github.com/noursharabati/ClinicEase.git
    cd ClinicEase
    ```
 
