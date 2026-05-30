@@ -65,8 +65,8 @@ git clone https://github.com/noursharabati/ClinicEase.git
    - Place the project folder inside your server's web root (`htdocs` / `www`)
    - Open your browser and go to:
      ```
-     http://localhost/ClinicEase/
-     ```
+[     http://localhost/ClinicEase/
+](http://localhost/ClinicEase-improved/ClinicEase-improved/index.php)     ```
 
 ## 📁 Project Structure
 
