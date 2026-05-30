@@ -15,7 +15,7 @@ A full-stack academic clinic appointment booking system developed using PHP, MyS
 
 | Home | Book | Admin |
 |------|------|-------|
-| ![Home](screenshots/Home.png) | ![Book](screenshots/book.png) | ![Admin](screenshots/admin.png) |
+| ![Home](/Home.png) | ![Book](Book.png) | ![Admin](Admin.png) |
 
 ## 🛠️ Tech Stack
 
